@@ -1,0 +1,1 @@
+function soma(o,n){console.log(o+n)}soma(4,5);
